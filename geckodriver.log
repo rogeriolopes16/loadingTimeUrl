@@ -1,0 +1,120 @@
+1618508244216	geckodriver	INFO	Listening on 127.0.0.1:63481
+1618508249449	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AUTOMA~1\\AppData\\Local\\Temp\\2\\rust_mozprofile8fClOX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1618508303331	Marionette	INFO	Listening on port 63494
+[Parent 19552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618508338836	Marionette	INFO	Stopped listening on port 63494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619552828603	geckodriver	INFO	Listening on 127.0.0.1:55682
+1619552831240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROGERI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileXNSnY0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619552840824	Marionette	INFO	Listening on port 55696
+1619552840956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.0.3/fingerprint2.js, line 1258: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.0.3/fingerprint2.js, line 1258: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.0.3/fingerprint2.js, line 1258: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.0.3/fingerprint2.js, line 1258: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+1619552975000	Marionette	INFO	Stopped listening on port 55696
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619553165939	geckodriver	INFO	Listening on 127.0.0.1:56037
+1619553168708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROGERI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileGXSaJc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619553179488	Marionette	INFO	Listening on port 56048
+1619553179802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1619553272307	mozrunner::runner	INFO	Runn1619553272783	Marionette	INFO	Stopped listening on port 56048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofilep7r08S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619553283394	Marionette	INFO	Listening on port 56256
+1619553283974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1619553895017	Marionette	INFO	Stopped listening on port 56256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619553906703	geckodriver	INFO	Listening on 127.0.0.1:56800
+1619553909381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROGERI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileL5jBNd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619553920220	Marionette	INFO	Listening on port 56810
+1619553920427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+1619554218760	Marionette	INFO	Stopped listening on port 56810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619554354237	geckodriver	INFO	Listening on 127.0.0.1:57153
+1619554356922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROGERI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileCQ2xmE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619554366845	Marionette	INFO	Listening on port 57167
+1619554367379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+1619554455832	Marionette	INFO	Stopped listening on port 57167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619554483931	geckodriver	INFO	Listening on 127.0.0.1:57453
+1619554486520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROGERI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilek4T3TH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619554496692	Marionette	INFO	Listening on port 57461
+1619554496958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+1619554580091	Marionette	INFO	Stopped listening on port 57461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619554714514	geckodriver	INFO	Listening on 127.0.0.1:57762
+1619554717145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ROGERI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileQ0ACN4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619554728720	Marionette	INFO	Listening on port 57772
+1619554729132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://r12.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript warning: https://oebs.algarnet.com.br/OA_HTML/cabo/oajsLibs/OAFSlideoutMenu.js, line 151: unreachable code after return statement
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PopupBlockingChild.jsm, line 28: TypeError: this.contentWindow is null
+JavaScript warning: http://wfn.algarnet.com.br:8081/gesplan/webjars/js/input.js?gesplanResourceVersion=1619549789119_2.4.1.7, line 828: unreachable code after return statement
+JavaScript warning: http://wfnr12.algarnet.com.br:8082/gesplan/webjars/js/input.js?gesplanResourceVersion=1619550762336_2.4.1.7, line 828: unreachable code after return statement
+1619554815196	Marionette	INFO	Stopped listening on port 57772
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
